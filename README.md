@@ -1,3 +1,4 @@
+
 # Medical AI Assistant - Production-Ready Healthcare Application
 <img width="1832" height="845" alt="Screenshot 2025-09-30 061026" src="https://github.com/user-attachments/assets/f09da8d2-626f-4efa-8d12-58ca38ba77e0" />
 
